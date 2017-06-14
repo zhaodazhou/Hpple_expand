@@ -1,5 +1,5 @@
 # Hpple_expand
-基于开源库Hpple的扩展，实现移除多余标签，属性的功能
+基于开源库Hpple的扩展，可以通过xpath查找xml或html的节点，并实现移除多余标签，属性的功能
 
 1：新增了ElementModify的文件，其中实现了删除特定标签或者属性的功能函数；
 
